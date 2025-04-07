@@ -1,0 +1,47 @@
+Terms of Service Agreement
+
+This Terms of Service Agreement (the "Agreement") is entered into by and between [SolarSupremacy] ("Bot Owner") and any individual or entity ("User") accessing or using the DevBot Discord bot (the "Bot"). By accessing or using the Bot, the User agrees to be legally bound by the terms and conditions of this Agreement. If the User does not agree to these terms, they must discontinue use of the Bot immediately.
+
+1. License to Use
+
+Subject to the terms and conditions of this Agreement, the Bot Owner grants the User a non-exclusive, non-transferable, revocable, limited license to access and use the Bot solely for personal or non-commercial purposes.
+
+2. Prohibited Conduct
+
+The User shall not use the Bot:
+
+    In violation of any applicable laws, regulations, or third-party rights;
+
+    For any commercial or revenue-generating activity without the prior written consent of the Bot Owner;
+
+    To engage in any activity that could disrupt or interfere with the functionality or integrity of the Bot or Discord platform.
+
+3. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Bot Owner shall not be liable for any direct, indirect, incidental, consequential, or exemplary damages, including but not limited to loss of profits, data, or goodwill, arising from the use or inability to use the Bot.
+
+4. Modifications and Availability
+
+The Bot Owner reserves the right to modify, suspend, or discontinue the Bot, in whole or in part, at any time and without prior notice. The User agrees that the Bot Owner shall not be liable to the User or any third party for any such changes or interruptions.
+
+5. Intellectual Property Rights
+
+All rights, title, and interest in and to the Bot, including any associated intellectual property, shall remain the exclusive property of the Bot Owner. The User agrees not to reproduce, alter, distribute, or create derivative works based on the Bot without the Bot Owner’s express written permission.
+
+6. Indemnification
+
+The User agrees to indemnify, defend, and hold harmless the Bot Owner and its affiliates, officers, directors, employees, and agents from any claims, damages, liabilities, costs, or expenses (including reasonable legal fees) arising out of the User’s use of the Bot or any violation of this Agreement.
+
+7. Termination
+
+This Agreement may be terminated by either party at any time, with or without cause. Upon termination, the User must cease all use of the Bot and any rights granted under this Agreement shall immediately lapse.
+
+8. Governing Law and Dispute Resolution
+
+This Agreement shall be governed by and construed in accordance with the laws of Florida, without regard to its conflict of law principles. Prior to initiating arbitration, the parties agree to make a good-faith effort to resolve any dispute informally for a period of no less than 120 days. If the dispute is not resolved within that time, it shall be submitted to binding arbitration in accordance with the rules of Judicial Arbitration and Mediation Services (JAMS), and judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+
+9. Entire Agreement
+
+This Agreement constitutes the entire understanding between the parties with respect to the subject matter herein and supersedes all prior or contemporaneous understandings or agreements, whether oral or written.
+
+By continuing to use the Bot, the User affirms that they have read, understood, and agreed to be bound by the terms and conditions of this Agreement.
